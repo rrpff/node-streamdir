@@ -1,0 +1,22 @@
+{
+  "name": "node-streamdir",
+  "version": "0.0.0",
+  "description": "Stream contents of a directory. fs.readdir as a stream.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "stream",
+    "readdir",
+    "directory"
+  ],
+  "author": "Richard Foster <richard@rpf.me> (http://rpf.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "through": "^2.3.6"
+  },
+  "devDependencies": {
+    "chai": "^2.1.2"
+  }
+}
