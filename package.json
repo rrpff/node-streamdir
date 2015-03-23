@@ -18,5 +18,16 @@
   },
   "devDependencies": {
     "chai": "^2.1.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuren/node-streamdir.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zuren/node-streamdir/issues"
+  },
+  "homepage": "https://github.com/zuren/node-streamdir"
 }
